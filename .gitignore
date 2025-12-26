@@ -1,0 +1,14 @@
+# env
+.env
+
+# vector database
+chroma/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
